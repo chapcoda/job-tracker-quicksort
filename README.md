@@ -33,11 +33,11 @@ Higher score = apply sooner.
 
 ## Demo video/gif/screenshot of test
 
-![test demo](Screenshot_2026-04-12_160652.png) 
+![test demo](Screenshot 2026-04-12 160652.png)
 Screenshot 1 - User Interface + Results
-![test demo](Screenshot_2026-04-12_160759.png)
+![test demo](Screenshot 2026-04-12 160759.png)
 Sceenshot 2 - Quick Sort Steps Display #1
-![test demo](Screenshot_026-04-12_161010.png)
+![test demo](Screenshot 2026-04-12 161010.png)
 Screenshot 3 - Quick Sort Steps Display #2
 
 ## Problem Breakdown & Computational Thinking
