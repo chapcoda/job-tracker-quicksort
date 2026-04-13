@@ -33,11 +33,11 @@ Higher score = apply sooner.
 
 ## Demo video/gif/screenshot of test
 
-![App Demo](Screenshot_2026-04-12_160652.png) 
+![test demo](Screenshot_2026-04-12_160652.png) 
 Screenshot 1 - User Interface + Results
-![App Demo] (Screenshot_2026-04-12_160759.png)
+![test demo](Screenshot_2026-04-12_160759.png)
 Sceenshot 2 - Quick Sort Steps Display #1
-![App Demo](Screenshot_026-04-12_161010.png)
+![test demo](Screenshot_026-04-12_161010.png)
 Screenshot 3 - Quick Sort Steps Display #2
 
 ## Problem Breakdown & Computational Thinking
@@ -78,11 +78,11 @@ https://huggingface.co/spaces/Chapcoda/job-tracker-quicksort
 ![Test 1 - Single Application](Test1.png)
 Test 1 - When given only one application, the app returns it correctly with 0 steps recorded (since there is nothing to compare it against).
 ![Test 2 - Missing Field Error](Test2.png)
-When the deadline field was left out, the app displayed a clear error stating to te user exactly which field was missing without crashing.
+Test 2 - When the deadline field was left out, the app displayed a clear error stating to te user exactly which field was missing without crashing.
 ![Test 3 - Invalid Score Error](Test3.png)
-When entered a invalid excitement score (15), the app returned an validation error, preventing the sort from running until the input is corrected.
+Test 3 - When entered a invalid excitement score (15), the app returned an validation error, preventing the sort from running until the input is corrected.
 ![Test 4 - Empty List Error](Test4.png)
-When a empty list was presnet, the app returned to the user to input an application.
+Test 4 When a empty list was presnet, the app returned to the user to input an application.
 ## Author & AI Acknowledgment
 
 **Author:** Noah Chapman — 20538805 — CISC 121, 001
