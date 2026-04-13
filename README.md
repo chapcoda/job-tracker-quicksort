@@ -33,13 +33,13 @@ Higher score = apply sooner.
 
 ## Demo screenshot of test
 
-![Screenshot 1](Screenshot1.pngpng)
+![Screenshot 1](Screenshot1.png.png)
 Screenshot 1 - User Interface + Results
 
-![Screenshot 2](Screenshot2.pngpng)
+![Screenshot 2](Screenshot2.png.png)
 Screenshot 2 - Quick Sort Steps Display #1
 
-![Screenshot 3](Screenshot3.pngpng)
+![Screenshot 3](Screenshot3.png.png)
 Screenshot 3 - Quick Sort Steps Display #2
 
 ## Problem Breakdown & Computational Thinking
