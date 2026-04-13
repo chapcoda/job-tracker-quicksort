@@ -44,7 +44,8 @@ Screenshot 3 - Quick Sort Steps Display #2
 
 ## Problem Breakdown & Computational Thinking
 
-### Flowchart
+## Flowchart
+![Flowchart](flowchart.png.png)
 
 ### Four Pillars of Computational Thinking
 
