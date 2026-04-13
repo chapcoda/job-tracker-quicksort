@@ -31,7 +31,7 @@ Priority Score = (excitement × 0.5) + (fit × 0.3) + (urgency_bonus × 0.2)
 
 Higher score = apply sooner.
 
-## Demo video/gif/screenshot of test
+## Demo screenshot of test
 
 ![test demo](Screenshot 2026-04-12 160652.png)
 Screenshot 1 - User Interface + Results
